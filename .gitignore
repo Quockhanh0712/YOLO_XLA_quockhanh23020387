@@ -1,6 +1,5 @@
 __pycache__/
 *.pyc
-*.pth
 *.log
 predictions.json
 predictions_test.json

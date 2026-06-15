@@ -154,7 +154,7 @@ def parse_args():
     p.add_argument("--max_detections", type=int, default=None)
     p.add_argument("--topk", type=int, default=300)
     p.add_argument("--img_size", type=int, default=None)
-    p.add_argument("--tta", action="store_true")
+    p.add_argument("--no-tta", dest="tta", action="store_false", default=True)
     return p.parse_args()
 
 
