@@ -1,0 +1,5 @@
+{
+  "conf_threshold": 0.01,
+  "nms_iou": 0.5,
+  "map50": 0.806754
+}

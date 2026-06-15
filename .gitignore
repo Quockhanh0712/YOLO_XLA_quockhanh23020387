@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pth
+*.log
+predictions.json
+predictions_test.json
+test_predictions.json
+grading_outputs/
+scratch/
+.ipynb_checkpoints/
